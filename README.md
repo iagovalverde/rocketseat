@@ -2,7 +2,7 @@
 
 ![preview](./assets/preview.png)
 
- Projeto construído do evento Next Level Week da Rocketseat.
+ Projeto construído do evento Next Level Week (NLW) da Rocketseat.
 
  [Clique aqui para acessar](https://iagovalverde.github.io/rocketseat/)
 
