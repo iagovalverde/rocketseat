@@ -12,6 +12,9 @@
 - CSS
 - Git e Github
 
+## Aprendizagem
+
 ## Contato
 
 iagopachiani96@gmail.com
+
